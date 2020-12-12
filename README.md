@@ -4,6 +4,7 @@
 ## Helllo
 
 ### Table of Contents
-[References](https://www.markdownguide.org/cheat-sheet/)
-[images](https://towardsdatascience.com/3-numpy-image-transformations-on-baby-yoda-c27c1409b411)
-[FintechActivity Repo](https://github.com/Vielufs/FintechActivity1.git)
+[Code](Code,)
+[images](Images)
+[References](References,)
+[Data](Data,)
